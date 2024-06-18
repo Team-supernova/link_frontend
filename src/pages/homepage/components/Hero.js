@@ -20,6 +20,7 @@ export default function div() {
         />
         <img
           src={magnifyingGlass}
+          alt="magnifying-glass"
           className="absolute top-[18px] left-[20px]"
         />
       </div>
