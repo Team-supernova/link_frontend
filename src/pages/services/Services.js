@@ -2,7 +2,6 @@
 import React from 'react'
 import PageLayout from '../../components/PageLayout'
 import staticData from './servicesData'
-import div from '../homepage/components/Hero'
 import { Link } from 'react-router-dom';
 import ServiceProfileCard from './components/ServiceProfileCard';
 
