@@ -43,7 +43,7 @@ const servicesProfiles = [
     image: man,
     name: "Tobi Onoh",
     service: "Electrician",
-    stars: svg5,
+    stars: svg4,
     profile: "view profile",
     message: "message",
   },
