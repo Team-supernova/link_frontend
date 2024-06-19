@@ -21,5 +21,10 @@ export default function Button({ text, type, to }) {
           {text}
         </Link>
       );
+    
+    case "default":
+      return (
+        <p>No Linke</p>
+      )
   }
 }
