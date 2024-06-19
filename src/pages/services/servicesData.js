@@ -1,9 +1,9 @@
-import houseSVG from '../../assets/svgs/house.svg'
-import svg5 from '../../assets/svgs/5_1.svg'
-import svg4 from '../../assets/svgs/5.svg'
-import svg1 from '../../assets/svgs/Rating=1.svg'
-import man from '../../assets/svgs/man.svg'
-import woman from '../../assets/svgs/woman.svg'
+import houseSVG from "../../assets/svgs/house.svg";
+import svg5 from "../../assets/svgs/5_1.svg";
+import svg4 from "../../assets/svgs/5.svg";
+import svg1 from "../../assets/svgs/Rating=1.svg";
+import man from "../../assets/svgs/man.svg";
+import woman from "../../assets/svgs/woman.svg";
 
 const servicesProfiles = [
   {
@@ -121,4 +121,6 @@ const listOfServices = [
   },
 ];
 
-export default {servicesProfiles, listOfServices}
+const servicesData = { servicesProfiles, listOfServices };
+
+export default servicesData;
